@@ -20,7 +20,8 @@
 export default {
     data() {
         return {
-            listaContato: []
+            listaContato: [
+            ]
         }
     },
     methods: {
